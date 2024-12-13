@@ -1,0 +1,4 @@
+PIL
+qrcode
+streamlit
+io
