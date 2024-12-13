@@ -1,4 +1,2 @@
-PIL
-qrcode
-streamlit
 io
+PIL
